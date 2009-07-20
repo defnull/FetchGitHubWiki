@@ -5,6 +5,13 @@ Usage: `python ghwfetch.py [username] [project] [save path]`
 
 Example: `python ghwfetch.py defnull bottle /var/www/bottlewiki/`
 
+Dependencies
+-------------
+
+The GitHub Wiki Downloader depends on [Bottle][b] for templates. 
+
+  [b]: http://github.com/defnull/bottle
+
 Licence (MIT)
 -------------
 
