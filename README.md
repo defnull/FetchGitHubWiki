@@ -2,6 +2,7 @@ GitHub Wiki Downloader
 ====================
 
 Usage: `python ghwfetch.py [username] [project] [save path]`
+
 Example: `python ghwfetch.py defnull bottle /var/www/bottlewiki/`
 
 Licence (MIT)
